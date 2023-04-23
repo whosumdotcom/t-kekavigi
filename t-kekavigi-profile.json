@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-23T15:39:21Z",
+  "IdClaims": [
+    {
+      "Claim": "t:kekavigi"
+    },
+    {
+      "Claim": "gh:kekavigi"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "8d1f69c61df294e5354e2f57",
+    "Timestamp": "2023-04-23T15:42:08Z",
+    "Signature": "499f9f76fe7f6df91c3bb61c9fb6ab03ce4373d02e87cfbd41dc08d3edaf7ab617d21b40befc8477e3a4d2530abac87ce8647f5c8c1a3c5379a05a3b53623abd08329e9ae51da95b5c7857c808af8656f283f5cc7c5309ad56f3df1a1e02bcd6809867c77179ff6edfdc39521111c848c942a619d92ecfd68b16770fccb55bac0a09fc16cb44bcf26efbaf3561f5761897ab51662c15dd4b9acecf4e9fdf79ba0499e6bb3952a7e3967efed5f76431ede64c9ac336cbad6ff02d20314634ebff626d361db66845fa9fc6cd85cacabdd7a5ae4bccd70b26f2a09c2c94270bb18eed98c74cd27dd546e046bdf1cb2918cd592ab51d4ea3aa3efcdbd62899abfc6c"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "27b8d68809d41585af1c7c8b36e0302007a65e163a66e96678461718f25a69f6",
+  "ContentToHash": "v1|gh:kekavigi,t:kekavigi|2023-04-23T15:39:21Z"
+}
